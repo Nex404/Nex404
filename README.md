@@ -104,6 +104,6 @@
 <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nex404&show_icons=true&locale=en&layout=compact" alt="nex404" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nex404&show_icons=true&locale=en&layout=compact&exclude_repo=catkin_ws" alt="nex404" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nex404&show_icons=true&locale=en" alt="nex404" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nex404&show_icons=true&locale=en&count_private=true&theme=dark" alt="nex404" /></p>
