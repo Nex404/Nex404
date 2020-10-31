@@ -40,14 +40,6 @@
 <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
 
-<div class="row">
-  <div class="column">
-    <img align="left" alt="Nex404's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nex404&show_icons=true&locale=en&count_private=true" style="width:90%" />
-  </div>
-  <div class="column">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nex404&show_icons=true&locale=en&layout=compact&exclude_repo=catkin_ws" alt="nex404" style="width:100%" />
-  </div>
-</div>
 <p><img align="left" alt="Nex404's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nex404&show_icons=true&locale=en&count_private=true" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nex404&show_icons=true&locale=en&layout=compact&exclude_repo=catkin_ws" alt="nex404" /></p>
 
