@@ -101,7 +101,7 @@
 
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nex404&show_icons=true&locale=en&count_private=true&theme=dark" alt="nex404" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=nex404&show_icons=true&locale=en&count_private=true&theme=dark" alt="Nex404's GitHub Stats" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nex404&show_icons=true&locale=en&layout=compact&exclude_repo=catkin_ws" alt="nex404" /></p>
 
 [website]: https://github.com/Nex404
