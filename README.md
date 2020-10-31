@@ -58,7 +58,7 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Nex404's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nex404&show_icons=true&hide_border=true&count_private=true&theme=radical" />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nex404&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <img align="left" alt="Nex404's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nex404&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 
 </details>
 
