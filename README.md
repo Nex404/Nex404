@@ -76,7 +76,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/KvrmX5Zd7h" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/vector-brand-logos/40/Discord-512.png" alt="Nex404" height="40" width="40" /></a>
+<a href="https://discord.gg/KvrmX5Zd7h" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/vector-brand-logos/40/Discord-512.png" alt="Nex404" height="45" width="45" /></a>
 <a href="https://linkedin.com/in/dennys-daniel-vogt-146497172" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dennys-daniel-vogt-146497172" height="30" width="40" /></a>
 <a href="https://fb.com/dennysdaniel.vogt.5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="dennysdaniel.vogt.5" height="30" width="40" /></a>
 </p>
