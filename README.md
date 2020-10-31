@@ -15,10 +15,9 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 <br />
 
@@ -57,8 +56,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Nex404's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nex404&show_icons=true&hide_border=true&count_private=true&theme=dark" />
-  <img align="left" alt="Nex404's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nex404&exclude_repo=catkin_ws&layout=compact](https://github.com/anuraghazra/github-readme-stats" />
+  <img align="left" alt="Nex404's GitHub Stats" src="github-readme-stats-one-cyan.vercel.app/api?username=Nex404&show_icons=true&hide_border=true&count_private=true&theme=dark" />
+  <img align="left" alt="Nex404's GitHub Stats" src="github-readme-stats-one-cyan.vercel.app/api/top-langs/?username=Nex404&exclude_repo=catkin_ws&layout=compact](https://github.com/anuraghazra/github-readme-stats" />
 
 </details>
 
