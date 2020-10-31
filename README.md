@@ -59,7 +59,7 @@
 
 
 
-<h1 align="center">Hi there👋, I'm Dennys - aka [Nex404][website]</h1>
+<h1 align="center">Hi there👋, I'm Dennys - aka [Nex404](github.com/nex404)</h1>
 <h3 align="center">A applied computer science student from Germany.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nex404&label=Profile%20views&color=0e75b6&style=flat" alt="nex404" /> </p>
