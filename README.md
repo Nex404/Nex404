@@ -56,16 +56,10 @@
 
 </details>
 
-[website]: https://github.com/Nex404
-
-[twitter]: https://twitter.com/codeSTACKr
-
-
-[linkedin]: https://linkedin.com/in/codeSTACKr
 
 
 
-<h1 align="center">Hi there👋, I'm Dennys</h1>
+<h1 align="center">Hi there👋, I'm Dennys - aka [Nex404][website]</h1>
 <h3 align="center">A applied computer science student from Germany.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nex404&label=Profile%20views&color=0e75b6&style=flat" alt="nex404" /> </p>
@@ -108,3 +102,5 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nex404&show_icons=true&locale=en&count_private=true&theme=dark" alt="nex404" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nex404&show_icons=true&locale=en&layout=compact&exclude_repo=catkin_ws" alt="nex404" /></p>
+
+[website]: https://github.com/Nex404
