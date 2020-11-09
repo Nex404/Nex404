@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there👋, I'm Dennys - aka <a href="github.com/nex404">Nex404</a></h1>
+<h1 align="center">Hi there👋, I'm Dennys - aka <a href="github.com/Nex404">Nex404</a></h1>
 <h3 align="center">An applied computer science student from Germany.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nex404&label=Profile%20views&color=0e75b6&style=flat" alt="nex404" /> </p>
@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Python, C and C++ projects.**
 
-- 👨‍💻 All of my projects are available at [github.com/Nex404](github.com/Nex404)
+- 👨‍💻 All of my projects are available on <a href="github.com/Nex404">Github</a>
 
 - 📫 How to reach me **Discord: Nex404#6953**
 
