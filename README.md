@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi there👋, I'm Daniel - aka <a href="https://github.com/Nex404">Nex404</a></h1>
-<h3 align="center">An applied computer science student from Germany.</h3>
+<h3 align="center">A software engineer from Germany.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nex404&label=Profile%20views&color=0e75b6&style=flat" alt="nex404" /> </p>
 
-- 🔭 I’m currently working on **archieving my Bachelor degree.**
+- 🔭 I’m currently working on **my optimization Python package.**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Docker**
 
 - 👯 I’m looking to collaborate on **Python, C and C++ projects.**
 
