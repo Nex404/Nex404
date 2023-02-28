@@ -35,7 +35,7 @@
 <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="GitHub" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-logo-mysql-database-web-development-computer-software-dolphin-marine-mammal-animals-thumbnail.png" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank"> <img src="https://banner2.cleanpng.com/20180325/rce/kisspng-python-mysql-yellow-dog-updater-modified-django-d-fierce-python-cliparts-5ab7c9de8053a7.4167643715219942065256.jpg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank"> <img src="https://play-lh.googleusercontent.com/jKr8mFk_TA_ndasSP-cr0nFS3fnKiyWhOYSFm0kaCbIKoeV4RK94IlUhV6MTAulTknXH" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
 
