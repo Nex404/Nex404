@@ -34,7 +34,7 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="GitHub" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://thumbnail.imgbin.com/20/17/9/imgbin-mysql-logo-database-portable-network-graphics-web-development-0bRTcWpC8Ps28zwrZjq88efaY_t.jpg" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://www.oracle.com/" target="_blank"> <img src="https://banner2.cleanpng.com/20180816/pqy/kisspng-logo-oracle-corporation-oracle-crm-bluekai-brand-oracle-at-jotb17-5b760a628cbb44.0991593215344625625764.jpg" alt="oracle" width="70" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank"> <img src="https://play-lh.googleusercontent.com/jKr8mFk_TA_ndasSP-cr0nFS3fnKiyWhOYSFm0kaCbIKoeV4RK94IlUhV6MTAulTknXH" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
